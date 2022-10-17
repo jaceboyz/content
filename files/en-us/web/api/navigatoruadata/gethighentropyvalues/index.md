@@ -104,7 +104,7 @@ navigator.userAgentData.getHighEntropyValues(
 ## See also
 
 - These values are also available as via HTTP request headers:
-  - [Low-entropy client hints](/en-US/docs/Web/HTTP/Client_hints#low_entropy_hints)) are sent automatically:
+  - [high-entropy client hints](/en-US/docs/Web/HTTP/Client_hints#high_entropy_hints)) are sent automatically:
     - {{HTTPHeader("Sec-CH-UA")}}
     - {{HTTPHeader("Sec-CH-UA-Mobile")}}
     - {{HTTPHeader("Sec-CH-UA-Platform")}}
